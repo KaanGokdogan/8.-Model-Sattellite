@@ -1,0 +1,20 @@
+class Aktarim(QThread):
+    def _init_(self,parent=None):
+        super(Aktarim,self)._init_(parent)
+
+    def run(self):
+            global dosyaismi
+            global ftp
+
+            ftp = FTP('')
+            ftp.connect('192.168.4.8', 21)
+            ftp.login("bdispate", "bdispate")
+            dosyayolu = dosya[0]
+            dosyaismi = os.path.basename(dosyayolu)
+            print("Video Paketi:" + dosyaismi)
+            start = time.time()
+            ftp.storbinary('STOR ' + dosyaismi, open(dosyaismi, 'rb'))
+            ftp.size(dosyaismi)
+            ftp.quit()
+            end = time.time()
+            print(round(end-start, 2) ,"saniyede dosya gönderildi.")
