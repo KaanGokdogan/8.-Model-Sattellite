@@ -10,4 +10,4 @@
 
 ## [Click here](https://github.com/Kaangkdoan/Model_Satellite/assets/116373851/7affc90f-9b1c-456b-92a4-8cb67f93d3aa) to see GUI.
 
-[Click here](https://github.com/Kaangkdoan/Model_Satellite/files/13801837/T-MUY_2023_Yarisma_Kilavuzu.pdf) to see the content of the competition.
+[Click here]((https://cdn.teknofest.org/media/upload/userFormUpload/T-MUY_2023_Yar%C4%B1%C5%9Fma_K%C4%B1lavuzu__tHg2I.pdf)) to see the content of the competition.
