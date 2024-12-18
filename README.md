@@ -1,4 +1,4 @@
-# This repository contains the Ground Station Interface and Flight Software developed for the 8. Model Satellite Competition. [Click here] (https://cdn.teknofest.org/media/upload/userFormUpload/T-MUY_2023_Yar%C4%B1%C5%9Fma_K%C4%B1lavuzu__tHg2I.pdf) to see the content of the competition.
+# This repository contains the Ground Station Interface and Flight Software developed for the 8. Model Satellite Competition. [Click here](https://cdn.teknofest.org/media/upload/userFormUpload/T-MUY_2023_Yar%C4%B1%C5%9Fma_K%C4%B1lavuzu__tHg2I.pdf) to see the content of the competition.
 ## Overview
 ### Ground Station Interface
 #### The ground station interface allows users to:
